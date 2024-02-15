@@ -42,3 +42,5 @@
 	AssertJ
 	Mockito
 	Gradle
+
+![Entities Schema](ForReadme/WareHouse.drawio.png)
