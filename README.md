@@ -43,4 +43,4 @@
 	Mockito
 	Gradle
 
-![Entities Schema](ForReadme/WareHouse.drawio.png)
+![Entities Schema](ForReadMe/WareHouse.drawio.png)
